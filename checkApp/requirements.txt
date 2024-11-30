@@ -1,0 +1,20 @@
+flask
+flask_sqlalchemy
+psycopg2
+flask_redis
+redis
+requests
+PluginBase
+python-Wappalyzer
+wafw00f
+flask-jwt-extended
+# argparse
+# dnspython
+sublist3r
+dicttoxml
+ratelimit
+fuzzywuzzy
+tld
+mechanize~=0.4.8
+html5lib~=1.1
+flask_limiter
